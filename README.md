@@ -18,8 +18,6 @@
 
 - 📫 How to reach me **shubhamraghuvanshi7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tV_qRD53f30YX6fUM8NHhdfot8DpfLWC/view?usp=sharing](https://drive.google.com/file/d/1tV_qRD53f30YX6fUM8NHhdfot8DpfLWC/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shubham_rcu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shubham_rcu" height="30" width="40" /></a>
